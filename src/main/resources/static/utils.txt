@@ -1,0 +1,2 @@
+Glogal exeption handling - cum sa faci sa apara mesajul erorii in postman
+https://www.studytonight.com/spring-boot/spring-boot-global-exception-handling
